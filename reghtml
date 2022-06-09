@@ -1,0 +1,28 @@
+<!DOCTYPE><html><head>
+    <title>UMMA University Registration Form</title>
+</head>
+<body bgcolor="purple"><CENTER></body>
+    <h1 style="color: rgb(147, 165, 42);">UMMA University Registration Form</h1>
+    <IMG src="mzamo.jpg" WIDTH="180" HEIGHT="140" BORDER="0">
+        <hr><hr>
+            <FORM METHOD="POST" ACTION="https://www.google.com">
+                <p>Last Name:
+                    <INPUT TYPE="text" NAME="Last Name" placeholder="Last Name">
+                        <p>first name:
+                            <INPUT TYPE="text" NAME="first name"><BR><BR>
+                          
+                                <INPUT TYPE="text" NAME="ALI" value="JUMA"><LABEL>First time Attendee</LABEL>                            
+                                    <INPUT TYPE="text" NAME="ALI" value="FATMA"><LABEL>Repeat  Attendee</LABEL> <br>
+                                        <p>Arriving on:
+                                            <SELECT NAME="Arrival Day">
+                                                <OPTION value="1">Saturday</OPTION>                                                                           
+                                                <OPTION value="2">Sunday</OPTION> 
+                                                <OPTION value="3">Monday</OPTION> 
+                                                <OPTION value="4">Tuesday</OPTION> 
+                                            </SELECT>
+                                            <p>E-mail Address:
+                                                <INPUT TYPE="textbox" NAME="E-mailAddr"><BR><BR><BR>
+                                                    <INPUT TYPE="submit" VALUE="Register me please"/>
+                                            </FORM>>
+                                        </CENTER>
+</html>
